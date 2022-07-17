@@ -1,0 +1,32 @@
+{
+  "turmas": [
+    {
+      "name": "Yoga",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 1
+    },
+    {
+      "name": "Acupuntura",
+      "shortDescription": "sinta o prazer do relaxamento percorrer todo o seu corpo!",
+      "id": 2
+    },
+    {
+      "name": "Liberação dos chakras",
+      "shortDescription": "Libere os 7 pontos de chakras no seu corpo e sinta a levesa de ser livre!",
+      "id": 3
+    },
+    {
+      "name": "Aromaterapia",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 4
+    },
+    {
+      "name": "Mente sobre o corpo",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 5
+    }
+  ],
+  "Inscriptions":[
+    
+  ]
+}

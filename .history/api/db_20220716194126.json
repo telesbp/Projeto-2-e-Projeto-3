@@ -1,0 +1,47 @@
+{
+  "turmas": [
+    {
+      "name": "Yoga",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "lorem-ipsum.paragraph",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 1
+    },
+    {
+      "name": "Acupuntura",
+      "time": "terça e Sexta das 8h às 18h",
+      "description": "lorem-ipsum.paragraph",
+      "shortDescription": "sinta o prazer do relaxamento percorrer todo o seu corpo!",
+      "id": 2
+    },
+    {
+      "name": "Liberação dos chakras",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "lorem-ipsum.paragraph",
+      "shortDescription": "Libere os 7 pontos de chakras no seu corpo e sinta a levesa de ser livre!",
+      "id": 3
+    },
+    {
+      "name": "Aromaterapia",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "lorem-ipsum.paragraph",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 4
+    },
+    {
+      "name": "Mente sobre o corpo",
+      "time": "Segunda e Quinta das 8h às 18h",
+      "description": "lorem-ipsum.paragraph",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 5
+    }
+  ],
+  "Inscriptions": [
+    {
+      "name": "Rafael",
+      "email": "teste@teste.com",
+      "turmaId": 1,
+      "id": 1
+    }
+  ]
+}

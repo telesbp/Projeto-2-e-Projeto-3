@@ -1,0 +1,47 @@
+{
+  "turmas": [
+    {
+      "name": "Yoga",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dapibus mi. Vestibulum mollis consectetur ultricies. Vestibulum varius augue in faucibus gravida. Vivamus quam metus, mattis eu risus vitae, sodales pharetra neque. Vestibulum lorem dolor, tincidunt at quam scelerisque, vestibulum venenatis felis. Proin mi sapien, pretium et eleifend eget, euismod non velit. Sed vitae libero sit amet arcu mattis efficitur. Pellentesque scelerisque nunc nunc, scelerisque consequat turpis placerat non. Aliquam erat volutpat. Sed iaculis metus ac leo ultricies viverra. Pellentesque vel iaculis magna. Morbi elementum ex ornare viverra vehicula. Pellentesque nec pulvinar neque.",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 1
+    },
+    {
+      "name": "Acupuntura",
+      "time": "terça e Sexta das 8h às 18h",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dapibus mi. Vestibulum mollis consectetur ultricies. Vestibulum varius augue in faucibus gravida. Vivamus quam metus, mattis eu risus vitae, sodales pharetra neque. Vestibulum lorem dolor, tincidunt at quam scelerisque, vestibulum venenatis felis. Proin mi sapien, pretium et eleifend eget, euismod non velit. Sed vitae libero sit amet arcu mattis efficitur. Pellentesque scelerisque nunc nunc, scelerisque consequat turpis placerat non. Aliquam erat volutpat. Sed iaculis metus ac leo ultricies viverra. Pellentesque vel iaculis magna. Morbi elementum ex ornare viverra vehicula. Pellentesque nec pulvinar neque.",
+      "shortDescription": "sinta o prazer do relaxamento percorrer todo o seu corpo!",
+      "id": 2
+    },
+    {
+      "name": "Liberação dos chakras",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dapibus mi. Vestibulum mollis consectetur ultricies. Vestibulum varius augue in faucibus gravida. Vivamus quam metus, mattis eu risus vitae, sodales pharetra neque. Vestibulum lorem dolor, tincidunt at quam scelerisque, vestibulum venenatis felis. Proin mi sapien, pretium et eleifend eget, euismod non velit. Sed vitae libero sit amet arcu mattis efficitur. Pellentesque scelerisque nunc nunc, scelerisque consequat turpis placerat non. Aliquam erat volutpat. Sed iaculis metus ac leo ultricies viverra. Pellentesque vel iaculis magna. Morbi elementum ex ornare viverra vehicula. Pellentesque nec pulvinar neque.",
+      "shortDescription": "Libere os 7 pontos de chakras no seu corpo e sinta a levesa de ser livre!",
+      "id": 3
+    },
+    {
+      "name": "Aromaterapia",
+      "time": "Quarta e Sexta das 8h às 18h",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dapibus mi. Vestibulum mollis consectetur ultricies. Vestibulum varius augue in faucibus gravida. Vivamus quam metus, mattis eu risus vitae, sodales pharetra neque. Vestibulum lorem dolor, tincidunt at quam scelerisque, vestibulum venenatis felis. Proin mi sapien, pretium et eleifend eget, euismod non velit. Sed vitae libero sit amet arcu mattis efficitur. Pellentesque scelerisque nunc nunc, scelerisque consequat turpis placerat non. Aliquam erat volutpat. Sed iaculis metus ac leo ultricies viverra. Pellentesque vel iaculis magna. Morbi elementum ex ornare viverra vehicula. Pellentesque nec pulvinar neque.",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 4
+    },
+    {
+      "name": "Mente sobre o corpo",
+      "time": "Segunda e Quinta das 8h às 18h",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum non dapibus mi. Vestibulum mollis consectetur ultricies. Vestibulum varius augue in faucibus gravida. Vivamus quam metus, mattis eu risus vitae, sodales pharetra neque. Vestibulum lorem dolor, tincidunt at quam scelerisque, vestibulum venenatis felis. Proin mi sapien, pretium et eleifend eget, euismod non velit. Sed vitae libero sit amet arcu mattis efficitur. Pellentesque scelerisque nunc nunc, scelerisque consequat turpis placerat non. Aliquam erat volutpat. Sed iaculis metus ac leo ultricies viverra. Pellentesque vel iaculis magna. Morbi elementum ex ornare viverra vehicula. Pellentesque nec pulvinar neque.",
+      "shortDescription": "Aprenda técnicas avançadas de relaxamento. Liberte todo potencial do seu corpo.",
+      "id": 5
+    }
+  ],
+  "inscriptions": [
+    {
+      "name": "Rafael",
+      "email": "teste@teste.com",
+      "turmaId": 1,
+      "id": 1
+    }
+  ]
+}

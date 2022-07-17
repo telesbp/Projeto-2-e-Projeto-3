@@ -1,0 +1,17 @@
+import { useEffect, useState } from "react";
+import { Layout } from "../../components/Layout";
+
+export function ClassDetails (){
+    const [turmas, setTurmas] = useState()
+    useEffect( () => {
+        const fetchClass = async () => {
+       const response = await fetch(`${process.env.REACT_APP_API_URL}/turmas/1`)
+       const data = await response.json()
+       setTurmas(data)
+    }})
+    return(
+        <Layout>
+            <h1>{turmas.name}</h1>
+        </Layout>
+    )
+}
